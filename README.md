@@ -19,8 +19,12 @@ https://javarush.ru/groups/posts/3424-pishem-rezjume-na-github
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 -->
+
 <p align='center'>
        ### In progress...
+</p>
+<p align='center'>
+       
        
 <!--    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a> -->

@@ -1,4 +1,4 @@
-### Hi there 👋
+### In progress...
 
 <!--
 **DaNaRim/DaNaRim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://javarush.ru/groups/posts/3424-pishem-rezjume-na-github
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
 -->
+<p align='center'>
+<!--    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a> -->
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>

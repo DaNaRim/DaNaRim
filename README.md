@@ -21,6 +21,7 @@
     &#128295;
     Technologies & Tools
 </h2>
+
 ![](https://img.shields.io/badge/Code-Java-orange?logo=Java)
 ![](https://img.shields.io/badge/Tools-Git-green?logo=Git)
 ![](https://img.shields.io/badge/Tools-JDBC-green)

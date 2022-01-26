@@ -1,33 +1,48 @@
 
-
-<!--
-**DaNaRim/DaNaRim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://javarush.ru/groups/posts/3424-pishem-rezjume-na-github
-
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-
--->
-
-<p align='center'>
-      <b>In progress...<b>
+<p>
+    <h1 align="center">
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+        Hi I`m Java developer
+    </h1>
 </p>
-<p align='center'>
-       
-       
-<!--    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a> -->
-   <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNaRim&layout=compact"/></a>
+<p  align="center">
+   <a href="#">
+       <img height=165 src="https://github-readme-stats.vercel.app/api?username=DaNaRim&theme=tokyonight&show_icons=true&count_private=true"/>
+   </a>
+   <a href="#">
+       <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNaRim&layout=compact&langs_count=6&theme=tokyonight"/>
+   </a>
+   <a href="https://wakatime.com/@DaNaRim">
+       <img align=top src="https://github-readme-stats.vercel.app/api/wakatime?username=@DaNaRim&layout=compact&langs_count=6&theme=tokyonight&range=last_7_days&custom_title=Wakatime stats for last 7 days"/>
+   </a>
+</p>
+
+<h2 align="center">
+    &#128295;
+    Technologies & Tools
+</h2>
+![](https://img.shields.io/badge/Code-Java-orange?logo=Java)
+![](https://img.shields.io/badge/Tools-Git-green?logo=Git)
+![](https://img.shields.io/badge/Tools-JDBC-green)
+![](https://img.shields.io/badge/Tools-Hibernate-green?logo=Hibernate)
+![](https://img.shields.io/badge/Tools-Apache%20Maven-green?logo=Apache%20Maven)
+![](https://img.shields.io/badge/Tools-Spring-green?logo=Spring)
+![](https://img.shields.io/badge/Tools-Spring%20Boot-green?logo=Spring%20Boot)
+![](https://img.shields.io/badge/Tools-Spring%20Security-green?logo=Spring%20Security)
+![](https://img.shields.io/badge/Tools-Thymeleaf-green?logo=Thymeleaf)
+<br>
+![](https://img.shields.io/badge/Code-SQL-orange)
+![](https://img.shields.io/badge/Tools-PostgreSQL-green?logo=PostgreSQL)
+<br>
+![](https://img.shields.io/badge/Code-HTML5-orange?logo=HTML5)
+![](https://img.shields.io/badge/Code-CSS3-orange?logo=CSS3)
+
+<h2 align="center">You can find me on </h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/danarim/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/_danarim_/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
 </p>

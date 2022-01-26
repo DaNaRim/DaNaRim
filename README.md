@@ -9,7 +9,7 @@
    <a href="#">
        <img height=165 src="https://github-readme-stats.vercel.app/api?username=DaNaRim&theme=tokyonight&show_icons=true&count_private=true"/>
    </a>
-   <a href="#">
+   <a href="https://github.com/DaNaRim?tab=repositories">
        <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNaRim&layout=compact&langs_count=6&theme=tokyonight"/>
    </a>
    <a href="https://wakatime.com/@DaNaRim">
@@ -37,6 +37,10 @@
 <br>
 ![](https://img.shields.io/badge/Code-HTML5-orange?logo=HTML5)
 ![](https://img.shields.io/badge/Code-CSS3-orange?logo=CSS3)
+<br>
+![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blueviolet?logo=IntelliJ%20IDEA)
+![](https://img.shields.io/badge/Editor-WebStorm-blueviolet?logo=WebStorm)
+![](https://img.shields.io/badge/Editor-Postman-blueviolet?logo=Postman)
 
 <h2 align="center">You can find me on </h2>
 <p align="center">

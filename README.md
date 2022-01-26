@@ -16,7 +16,9 @@
        <img align=top src="https://github-readme-stats.vercel.app/api/wakatime?username=@DaNaRim&layout=compact&langs_count=6&theme=tokyonight&range=last_7_days&custom_title=Wakatime stats for last 7 days"/>
    </a>
 </p>
-
+<p  align="center">
+     <img src="https://komarev.com/ghpvc/?username=DaNaRim&color=red"/>
+</p>
 <h2 align="center">
     &#128295;
     Technologies & Tools
@@ -42,7 +44,10 @@
 ![](https://img.shields.io/badge/Editor-WebStorm-blueviolet?logo=WebStorm)
 ![](https://img.shields.io/badge/Editor-Postman-blueviolet?logo=Postman)
 
-<h2 align="center">You can find me on </h2>
+<h2 align="center">
+    &#128221;
+    You can find me on
+</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/danarim/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

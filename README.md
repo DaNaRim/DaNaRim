@@ -13,8 +13,9 @@
        <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNaRim&layout=compact&langs_count=6&theme=tokyonight"/>
    </a>
    <a href="https://wakatime.com/@DaNaRim">
-       <img align=top src="https://github-readme-stats.vercel.app/api/wakatime?username=@DaNaRim&layout=compact&langs_count=6&theme=tokyonight&range=last_7_days&custom_title=Wakatime stats for last 7 days"/>
+       <img align=top src="https://github-readme-stats.vercel.app/api/wakatime?username=@DaNaRim&layout=compact&range=last_7_days&theme=tokyonight&custom_title=Wakatime stats for last 7 days"/>
    </a>
+<!--   &langs_count=6-->
 </p>
 <p  align="center">
      <img src="https://komarev.com/ghpvc/?username=DaNaRim&color=red"/>

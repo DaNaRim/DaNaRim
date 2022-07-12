@@ -46,15 +46,6 @@
 ![](https://img.shields.io/badge/Editor-Postman-blueviolet?logo=Postman)
 
 <h2 align="center">
-    My CV
-</h2>
-<p align="center">
-    <a href="https://github.com/DaNaRim/cv-java-dev">
-       <img align=top src="https://github-readme-stats.vercel.app/api/pin/?username=DaNaRim&repo=cv-java-dev&theme=tokyonight"/>
-   </a>
-</p>
-
-<h2 align="center">
     &#128221;
     You can find me on
 </h2>

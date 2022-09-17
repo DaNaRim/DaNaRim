@@ -17,9 +17,7 @@
    </a>
 <!--   &langs_count=6-->
 </p>
-<p  align="center">
-     <img src="https://komarev.com/ghpvc/?username=DaNaRim&color=red"/>
-</p>
+
 <h2 align="center">
     &#128295;
     Technologies & Tools

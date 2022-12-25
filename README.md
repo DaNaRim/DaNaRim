@@ -39,9 +39,9 @@
 
 <h2 id="-github-stats-" align="center">📊 GitHub Stats:</h1>
 <p align="center" style="vertical-align: top">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaNaRim&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaNaRim&amp;theme=dark&amp;hide_border=false">
+    <img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=DaNaRim&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false">
+    <img style="width: 45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaNaRim&amp;theme=dark&amp;hide_border=false">
     <br/>
-    <img style="vertical-align: top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNaRim&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DaNaRim&range=last_7_days&theme=dark&layout=compact&langs_count=6&custom_title=Wakatime%20stats%20for%20last%207%20days">
+    <img style="width: 37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNaRim&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact">
+    <img style="width: 52%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DaNaRim&range=last_7_days&theme=dark&layout=compact&langs_count=6&custom_title=Wakatime%20stats%20for%20last%207%20days">
 </p>

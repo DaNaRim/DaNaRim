@@ -40,8 +40,8 @@
 <h2 id="-github-stats-" align="center">📊 GitHub Stats:</h1>
 <p align="center" style="vertical-align: top">
     <img style="width: 40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaNaRim&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false">
-    <img style="width: 44%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaNaRim&amp;theme=dark&amp;hide_border=false">
+    <img style="width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaNaRim&amp;theme=dark&amp;hide_border=false">
     <br/>
     <img style="width: 30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaNaRim&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact">
-    <img style="width: 50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DaNaRim&range=last_7_days&theme=dark&layout=compact&langs_count=6&custom_title=Wakatime%20stats%20for%20last%207%20days">
+    <img style="width: 44%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DaNaRim&range=last_7_days&theme=dark&layout=compact&langs_count=6&custom_title=Wakatime%20stats%20for%20last%207%20days">
 </p>

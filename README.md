@@ -1,5 +1,5 @@
 <h1 id="-about-me-" align="center">💫 About Me:</h1>
-<p align="center">Currently working as system administrato in IXP.</p>
+<p align="center">Currently working as system administrator in IXP.</p>
 
 <h2 id="-socials-" align="center">🌐 Socials:</h2>
 <p align="center">
